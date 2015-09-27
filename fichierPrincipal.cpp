@@ -1,4 +1,5 @@
 #include <iostream>
+#include "texte.h"
 
 using namespace std;
 
