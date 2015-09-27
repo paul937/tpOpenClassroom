@@ -3,9 +3,10 @@
 
 #include <string>
 
-class texte{
+class Texte{
 
   public:
+  texte();
   std::string afficher();
   
   private:
