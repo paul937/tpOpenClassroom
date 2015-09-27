@@ -3,8 +3,9 @@
 using namespace std;
 
 int main(){
-
-  cout << "ceci est un TP pour openclassroom"<<endl;
+  
+  Texte openTP;
+  cout << openTP.afficher() <<endl;
   
   return 0;
 
